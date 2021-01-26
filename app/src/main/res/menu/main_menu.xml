@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="HardcodedText" >
+
+    <item android:id="@+id/cerrar_sesion"
+        android:title="Cerrar sesión" />
+
+    <item android:id="@+id/eliminar_cuenta"
+        android:title="Eliminar cuenta" />
+</menu>
